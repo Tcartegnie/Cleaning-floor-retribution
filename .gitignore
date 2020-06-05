@@ -77,4 +77,7 @@ DerivedDataCache/*
 *.log
 *.log
 ZombieShooterAnyCode/Saved/Backup/*
-ZombieShooterAnyCode/Intermediate/Build/Win64/ZombieShooterAnyCodeEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h
+ZombieShooterAnyCode/Intermediate/*
+ZombieShooterAnyCode/Binaries/*
+ZombieShooterAnyCode/Saved/*
+
