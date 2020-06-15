@@ -1,4 +1,29 @@
-﻿# Visual Studio 2015 user specific files
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Tcartegnie 
+github
+/
+gitignore
+3.1k
+104k54.8k
+ Code
+ Pull requests 146 Actions
+ Projects 0
+ Security 0
+ Insights
+gitignore/UnrealEngine.gitignore
+@jayvdb jayvdb Revert "add the *.VC.db to unreal engine ignore"
+fcb1dbf on 18 Jun 2018
+@samsheff@calben@vvolkgang@robipresotto@jayvdb@NuLL3rr0r@hzor3000@halbich@gagallo7@shiftkey@BGR360
+74 lines (58 sloc)  946 Bytes
+  
+# Visual Studio 2015 user specific files
 .vs/
 
 # Compiled Object files
@@ -72,11 +97,15 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-*.response
-*.ini
-*.log
-*.log
-ZombieShooterAnyCode/Saved/Backup/*
-ZombieShooterAnyCode/Intermediate/*
-ZombieShooterAnyCode/Saved/*
-
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About

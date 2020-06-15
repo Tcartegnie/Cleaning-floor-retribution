@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ZombieShooterAnyCode",
+			"Path": "C:\\Projects\\UE4\\ZombieShooter\\Cleaning-floor-retribution\\ZombieShooterAnyCode\\Source\\ZombieShooterAnyCode.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ZombieShooterAnyCodeEditor",
+			"Path": "C:\\Projects\\UE4\\ZombieShooter\\Cleaning-floor-retribution\\ZombieShooterAnyCode\\Source\\ZombieShooterAnyCodeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

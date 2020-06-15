@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ZombieShooterAnyCode.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{71189990-5896-4749-89FE-C91DB2361144}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ZombieShooterAnyCode.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ZombieShooterAnyCodeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5CDA0FE3-3CDA-4D6B-8827-038F55849767}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ZombieShooterAnyCode">
+      <UniqueIdentifier>{C62BE105-4178-476B-A5E2-0D14FD91FA67}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ZombieShooterAnyCode\LoopFloat.cpp">
+      <Filter>Source\ZombieShooterAnyCode</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ZombieShooterAnyCode\LoopFloat.h">
+      <Filter>Source\ZombieShooterAnyCode</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ZombieShooterAnyCode\ZombieShooterAnyCode.Build.cs">
+      <Filter>Source\ZombieShooterAnyCode</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ZombieShooterAnyCode\ZombieShooterAnyCode.cpp">
+      <Filter>Source\ZombieShooterAnyCode</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ZombieShooterAnyCode\ZombieShooterAnyCode.h">
+      <Filter>Source\ZombieShooterAnyCode</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
