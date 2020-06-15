@@ -78,6 +78,5 @@ DerivedDataCache/*
 *.log
 ZombieShooterAnyCode/Saved/Backup/*
 ZombieShooterAnyCode/Intermediate/*
-ZombieShooterAnyCode/Binaries/*
 ZombieShooterAnyCode/Saved/*
 
