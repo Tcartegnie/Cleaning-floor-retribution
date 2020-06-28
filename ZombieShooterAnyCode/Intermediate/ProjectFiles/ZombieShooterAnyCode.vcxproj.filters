@@ -29,12 +29,6 @@
     <Filter Include="Source\ZombieShooterAnyCode">
       <UniqueIdentifier>{B5665905-76FA-48B6-9D7D-92DA30D2B6C0}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\ZombieShooterAnyCode\LoopFloat.cpp">
-      <Filter>Source\ZombieShooterAnyCode</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\ZombieShooterAnyCode\LoopFloat.h">
-      <Filter>Source\ZombieShooterAnyCode</Filter>
-    </ClInclude>
     <None Include="..\..\Source\ZombieShooterAnyCode\ZombieShooterAnyCode.Build.cs">
       <Filter>Source\ZombieShooterAnyCode</Filter>
     </None>
