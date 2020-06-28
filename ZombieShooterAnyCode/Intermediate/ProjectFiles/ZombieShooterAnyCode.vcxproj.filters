@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ZombieShooterAnyCode.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{71189990-5896-4749-89FE-C91DB2361144}</UniqueIdentifier>
+      <UniqueIdentifier>{CFEEA78A-7E8C-4B95-BD8B-3C91A1D53FB0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ZombieShooterAnyCode.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{5CDA0FE3-3CDA-4D6B-8827-038F55849767}</UniqueIdentifier>
+      <UniqueIdentifier>{210687C3-FBDB-4711-9259-CA4F4B8CC7B5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ZombieShooterAnyCode">
-      <UniqueIdentifier>{C62BE105-4178-476B-A5E2-0D14FD91FA67}</UniqueIdentifier>
+      <UniqueIdentifier>{B5665905-76FA-48B6-9D7D-92DA30D2B6C0}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ZombieShooterAnyCode\LoopFloat.cpp">
       <Filter>Source\ZombieShooterAnyCode</Filter>
