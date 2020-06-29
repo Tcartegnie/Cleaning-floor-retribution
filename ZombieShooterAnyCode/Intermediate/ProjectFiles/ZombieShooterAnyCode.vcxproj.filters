@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ZombieShooterAnyCode.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{CFEEA78A-7E8C-4B95-BD8B-3C91A1D53FB0}</UniqueIdentifier>
+      <UniqueIdentifier>{699BD280-4D6C-410F-94EB-0092CC6981B9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ZombieShooterAnyCode.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{210687C3-FBDB-4711-9259-CA4F4B8CC7B5}</UniqueIdentifier>
+      <UniqueIdentifier>{917EFBF0-6501-4C48-8327-A0A2C7E15E23}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ZombieShooterAnyCode">
-      <UniqueIdentifier>{B5665905-76FA-48B6-9D7D-92DA30D2B6C0}</UniqueIdentifier>
+      <UniqueIdentifier>{55BA7265-FCEA-4907-9B7C-D3B15DFF5B6E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ZombieShooterAnyCode\ZombieShooterAnyCode.Build.cs">
       <Filter>Source\ZombieShooterAnyCode</Filter>

@@ -230,7 +230,7 @@
 /I Runtime\Experimental\GeometryCollectionSimulationCore\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\Projects\UE4\ZombieShooter\Cleaning-floor-retribution\ZombieShooterAnyCode\Source
+/I "D:\Epic Games\Cleaning-floor-retribution\ZombieShooterAnyCode\Source"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -254,18 +254,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Projects\UE4\ZombieShooter\Cleaning-floor-retribution\ZombieShooterAnyCode\Intermediate\Build\Win64\ZombieShooterAnyCodeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Projects\UE4\ZombieShooter\Cleaning-floor-retribution\ZombieShooterAnyCode\Intermediate\Build\Win64\ZombieShooterAnyCodeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Projects\UE4\ZombieShooter\Cleaning-floor-retribution\ZombieShooterAnyCode\Intermediate\Build\Win64\ZombieShooterAnyCodeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Projects\UE4\ZombieShooter\Cleaning-floor-retribution\ZombieShooterAnyCode\Source\ZombieShooterAnyCode\ZombieShooterAnyCode.cpp"
-/FI"C:\Projects\UE4\ZombieShooter\Cleaning-floor-retribution\ZombieShooterAnyCode\Intermediate\Build\Win64\UE4Editor\Development\ZombieShooterAnyCode\Definitions.ZombieShooterAnyCode.h"
-/Fo"C:\Projects\UE4\ZombieShooter\Cleaning-floor-retribution\ZombieShooterAnyCode\Intermediate\Build\Win64\UE4Editor\Development\ZombieShooterAnyCode\ZombieShooterAnyCode.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"D:\Epic Games\Cleaning-floor-retribution\ZombieShooterAnyCode\Intermediate\Build\Win64\ZombieShooterAnyCodeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\Epic Games\Cleaning-floor-retribution\ZombieShooterAnyCode\Intermediate\Build\Win64\ZombieShooterAnyCodeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\Epic Games\Cleaning-floor-retribution\ZombieShooterAnyCode\Intermediate\Build\Win64\ZombieShooterAnyCodeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\Epic Games\Cleaning-floor-retribution\ZombieShooterAnyCode\Source\ZombieShooterAnyCode\ZombieShooterAnyCode.cpp"
+/FI"D:\Epic Games\Cleaning-floor-retribution\ZombieShooterAnyCode\Intermediate\Build\Win64\UE4Editor\Development\ZombieShooterAnyCode\Definitions.ZombieShooterAnyCode.h"
+/Fo"D:\Epic Games\Cleaning-floor-retribution\ZombieShooterAnyCode\Intermediate\Build\Win64\UE4Editor\Development\ZombieShooterAnyCode\ZombieShooterAnyCode.cpp.obj"
 /TP
 /GR-
 /W4
